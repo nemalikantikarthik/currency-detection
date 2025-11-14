@@ -1,3 +1,9 @@
-*.pyc
-.venvs/
-.envs/
+venv/
+__pycache__/
+*.pt
+runs/
+.DS_Store
+*.png
+*.jpg
+*.jpeg
+*.bmp
