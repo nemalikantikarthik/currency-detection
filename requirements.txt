@@ -1,0 +1,23 @@
+# Web framework
+flask
+gunicorn
+
+# Deep learning (CPU-friendly)
+torch
+torchvision
+torchaudio
+
+# YOLOv5 dependencies
+ultralytics
+opencv-python-headless
+pillow
+numpy
+matplotlib
+tqdm
+pyyaml
+seaborn
+pandas
+requests
+
+# Translation
+googletrans==4.0.0rc1
